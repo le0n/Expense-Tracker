@@ -1,4 +1,4 @@
-import ExpenseBox from "./components/ExpenseBox";
+import ExpenseBox from "./components/Expenses/ExpenseBox";
 
 function App() {
   const expenses = [
